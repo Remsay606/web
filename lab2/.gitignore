@@ -1,0 +1,5 @@
+build/
+helios-upload/
+*.log
+*.pid
+docs/report-work/
